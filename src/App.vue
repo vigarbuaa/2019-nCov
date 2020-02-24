@@ -1,9 +1,8 @@
 <template>
   <div id="app">
-    <div id="nav">
+  <!--  <div id="nav">
       <img src="./assets/top_head.png" style="width:100%">
-    </div>
-
+    </div> -->
     <router-view/>
   </div>
 </template>
